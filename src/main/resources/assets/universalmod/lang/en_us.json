@@ -1,3 +1,6 @@
 {
-    "item.universalmod.sapphire": "Sapphire"
+  "item.universalmod.sapphire": "Sapphire",
+  "item.universalmod.raw_sapphire": "Raw Sapphire",
+
+  "creativetab.tutorial_tab": "Sapphire Tutorial Tab"
 }
